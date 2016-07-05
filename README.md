@@ -31,6 +31,10 @@ Works fine and isn't truncated in list of all microposts.
 * 4 Destroy the microposts from the previous exercises.
 Done.
 
+* Ch2 even more exercises
+* q1: doesn't let me add the same long content. Displays error message and the content is not added as a micropost.
+* CSS id: div id = "error_explanation"
+
 * System dependencies
 
 * Configuration
