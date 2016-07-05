@@ -5,7 +5,7 @@ application up and running.
 
 Things you may want to cover:
 
-* Exercise 1 chapter 2
+* Chapter 2 Exercise 1 
 * 1 The browser issues a request for the /users/1/edit URL
 * 2 Rails routes /users/1/edit to the edit action in the Users Controller (users.controller.rb)
 * 3 The edit action asks the User model to retrieve User 1 (User.1)
@@ -14,6 +14,12 @@ Things you may want to cover:
 * 6 The controller captures user 1 in the @users variable, which is passed to the index view.
 * 7 The view uses embedded Ruby to render the page as HTML.
 * 8 The controller passes the HTML back to the browser.
+
+* Chapter 2 Exercise 2: Find the line in the scaffolding code that retrieves the user from the database in the previous exercise.
+* <td><%= link_to 'Show', user %></td>
+
+* Chapter 2 Exercise 3: What is the name of the view file for the user edit page?
+* edit_user_path(user)
 
 * System dependencies
 
